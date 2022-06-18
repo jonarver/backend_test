@@ -1,0 +1,1554 @@
+[{
+  "_id": {
+    "$oid": "60984df9c541a1203c5a8dad"
+  },
+  "products": [],
+  "services": [
+    {
+      "id": "6050eaafa0aca019f880a3b2",
+      "orderQuantity": 1,
+      "name": "sample55",
+      "description": "sample",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "new data",
+      "provided": "day",
+      "price": 111,
+      "discount": 0,
+      "promocodeDiscount": 0,
+      "taxPrice": 5.55,
+      "priceFor1OrderQuantityBeforeTax": 111,
+      "priceFor1OrderQuantityAfterTax": 116.55,
+      "priceToPay": 116.55,
+      "taxPercentage": 5
+    }
+  ],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "status": "order_placed",
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "updatedAt": {
+    "$date": "2021-05-09T10:20:34.767Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-09T10:20:34.767Z"
+  },
+  "__v": 0,
+  "orderType": "pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 111,
+    "totalPriceAfterPromocode": 111,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 5.55,
+    "totalTaxBeforePromocode": 5.55,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 116.55
+  },
+  "serviceDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "0.00",
+  "productPriceForAllOrderQuantityAfterTax": "0.00",
+  "servicePriceForAllOrderQuantityBeforeTax": "111.00",
+  "servicePriceForAllOrderQuantityAfterTax": "116.55",
+  "category": "CartCheckout",
+  "orderId": "TM-YC13Fr613y71",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-YC13Fr613y71.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-YC13Fr613y71.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  }
+},{
+  "_id": {
+    "$oid": "60984e3d4a6a321b2cd0cfc3"
+  },
+  "products": [],
+  "services": [
+    {
+      "id": "6050eaafa0aca019f880a3b2",
+      "orderQuantity": 1,
+      "name": "sample55",
+      "description": "sample",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "new data",
+      "provided": "day",
+      "price": 111,
+      "discount": 0,
+      "promocodeDiscount": 0,
+      "taxPrice": 5.55,
+      "priceFor1OrderQuantityBeforeTax": 111,
+      "priceFor1OrderQuantityAfterTax": 116.55,
+      "priceToPay": 116.55,
+      "taxPercentage": 5
+    }
+  ],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "status": "order_placed",
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "updatedAt": {
+    "$date": "2021-05-09T10:20:34.767Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-09T10:20:34.767Z"
+  },
+  "__v": 0,
+  "orderType": "pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 111,
+    "totalPriceAfterPromocode": 111,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 5.55,
+    "totalTaxBeforePromocode": 5.55,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 116.55
+  },
+  "serviceDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "0.00",
+  "productPriceForAllOrderQuantityAfterTax": "0.00",
+  "servicePriceForAllOrderQuantityBeforeTax": "111.00",
+  "servicePriceForAllOrderQuantityAfterTax": "116.55",
+  "category": "CartCheckout",
+  "orderId": "TM-hkxym4mkegt9",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-hkxym4mkegt9.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-hkxym4mkegt9.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  }
+},{
+  "_id": {
+    "$oid": "60996adb4852b116243b349e"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a188",
+      "orderQuantity": 1,
+      "name": "sample3",
+      "description": "test procust3",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample03",
+      "price": 258,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.44,
+      "priceFor1OrderQuantityBeforeTax": 248,
+      "priceFor1OrderQuantityAfterTax": 317.44,
+      "quantity": 27,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_placed",
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 248,
+    "totalPriceAfterPromocode": 248,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 69.44,
+    "totalTaxBeforePromocode": 69.44,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 317.44
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "248.00",
+  "productPriceForAllOrderQuantityAfterTax": "317.44",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-3DY201624N56",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-3DY201624N56.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-3DY201624N56.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-10T17:18:19.922Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-10T17:18:19.922Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099dec08c38b32aa4a6a269"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a188",
+      "orderQuantity": 1,
+      "name": "sample3",
+      "description": "test procust3",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample03",
+      "price": 258,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.44,
+      "priceFor1OrderQuantityBeforeTax": 248,
+      "priceFor1OrderQuantityAfterTax": 317.44,
+      "quantity": 27,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    },
+    {
+      "id": "6050ea4ca0aca019f880a189",
+      "orderQuantity": 1,
+      "name": "sample4",
+      "description": "test procust4",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample04",
+      "price": 259,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.72,
+      "priceFor1OrderQuantityBeforeTax": 249,
+      "priceFor1OrderQuantityAfterTax": 318.72,
+      "quantity": 28,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "status": "order_placed",
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "updatedAt": {
+    "$date": "2021-05-10T20:45:27.449Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-10T20:45:27.449Z"
+  },
+  "__v": 0,
+  "orderType": "Delivery",
+  "paymentDetail": {
+    "totalQuantity": 2,
+    "promocode": "",
+    "totalPriceBeforePromocode": 497,
+    "totalPriceAfterPromocode": 497,
+    "deliveryCargeBeforePromocode": 40,
+    "deliveryCargeAfterPromocode": 40,
+    "deliveryDiscount": 0,
+    "distance": "4.083",
+    "tip": 0,
+    "totalTax": 139.16,
+    "totalTaxBeforePromocode": 139.16,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 676.16
+  },
+  "deliveryAddress": {
+    "building": "",
+    "howToReach": "",
+    "_id": "6099d2088c38b32aa4a6a23e",
+    "userId": "607139caffe4b312744a646c",
+    "address": {
+      "placeId": "GhIJtJn5xPC3KUARn76v27FmU0A",
+      "name": "VJ53+PR Bengaluru",
+      "address": "VJ53+PR Bengaluru, Karnataka, India",
+      "location": {
+        "lat": 12.8592588,
+        "lng": 77.6046056
+      },
+      "countryCode": "IN",
+      "zipCode": "560076"
+    },
+    "addressType": "Home",
+    "contactPhone": "4588999996",
+    "createdAt": "2021-05-11T00:38:32.835Z",
+    "updatedAt": "2021-05-11T00:38:32.835Z",
+    "__v": 0,
+    "distance": 4082.72106742735
+  },
+  "pickupDateTime": null,
+  "deliveryPartnerDetails": {
+    "deliveryPartnerId": "5fadb9ef23e3fe0023d0df6a",
+    "deliveryPartnerName": "Brings",
+    "charge": {
+      "_id": "5fadb9ef23e3fe0023d0df71",
+      "minKm": 0,
+      "maxKm": 6,
+      "chargingType": "PER_DELIVERY",
+      "amount": 40,
+      "deliveryPrice": 40
+    }
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "497.00",
+  "productPriceForAllOrderQuantityAfterTax": "636.16",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-gqVNMmCilMcO",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-gqVNMmCilMcO.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-gqVNMmCilMcO.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  }
+},{
+  "_id": {
+    "$oid": "6099e2cb65eb193ce094eeb1"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a18a",
+      "orderQuantity": 1,
+      "name": "sample5",
+      "description": "test procust5",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample05",
+      "price": 260,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70,
+      "priceFor1OrderQuantityBeforeTax": 250,
+      "priceFor1OrderQuantityAfterTax": 320,
+      "quantity": 29,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_placed",
+  "orderType": "Delivery",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "SHIP25",
+    "totalPriceBeforePromocode": 250,
+    "totalPriceAfterPromocode": 250,
+    "deliveryCargeBeforePromocode": 40,
+    "deliveryCargeAfterPromocode": 30,
+    "deliveryDiscount": 10,
+    "distance": "4.083",
+    "tip": 0,
+    "totalTax": 70,
+    "totalTaxBeforePromocode": 70,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 350
+  },
+  "deliveryAddress": {
+    "building": "",
+    "howToReach": "",
+    "_id": "6099d2088c38b32aa4a6a23e",
+    "userId": "607139caffe4b312744a646c",
+    "address": {
+      "placeId": "GhIJtJn5xPC3KUARn76v27FmU0A",
+      "name": "VJ53+PR Bengaluru",
+      "address": "VJ53+PR Bengaluru, Karnataka, India",
+      "location": {
+        "lat": 12.8592588,
+        "lng": 77.6046056
+      },
+      "countryCode": "IN",
+      "zipCode": "560076"
+    },
+    "addressType": "Home",
+    "contactPhone": "4588999996",
+    "createdAt": "2021-05-11T00:38:32.835Z",
+    "updatedAt": "2021-05-11T00:38:32.835Z",
+    "__v": 0,
+    "distance": 4082.72106742735
+  },
+  "pickupDateTime": null,
+  "deliveryPartnerDetails": {
+    "deliveryPartnerId": "5fadb9ef23e3fe0023d0df6a",
+    "deliveryPartnerName": "Brings",
+    "charge": {
+      "_id": "5fadb9ef23e3fe0023d0df71",
+      "minKm": 0,
+      "maxKm": 6,
+      "chargingType": "PER_DELIVERY",
+      "amount": 40,
+      "deliveryPrice": 40
+    }
+  },
+  "promocode": {
+    "id": "6050ef404328270be42679dd",
+    "promocodeType": "Delivery",
+    "promocodeCode": "SHIP25",
+    "promocodeValue": "25"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "250.00",
+  "productPriceForAllOrderQuantityAfterTax": "320.00",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-jd7t304Ev5Kf",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-jd7t304Ev5Kf.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-jd7t304Ev5Kf.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-11T01:50:03.941Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T01:50:03.941Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099e2cc65eb193ce094eeb3"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a18a",
+      "orderQuantity": 1,
+      "name": "sample5",
+      "description": "test procust5",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample05",
+      "price": 260,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70,
+      "priceFor1OrderQuantityBeforeTax": 250,
+      "priceFor1OrderQuantityAfterTax": 320,
+      "quantity": 29,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_placed",
+  "orderType": "Delivery",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "SHIP25",
+    "totalPriceBeforePromocode": 250,
+    "totalPriceAfterPromocode": 250,
+    "deliveryCargeBeforePromocode": 40,
+    "deliveryCargeAfterPromocode": 30,
+    "deliveryDiscount": 10,
+    "distance": "4.083",
+    "tip": 0,
+    "totalTax": 70,
+    "totalTaxBeforePromocode": 70,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 350
+  },
+  "deliveryAddress": {
+    "building": "",
+    "howToReach": "",
+    "_id": "6099d2088c38b32aa4a6a23e",
+    "userId": "607139caffe4b312744a646c",
+    "address": {
+      "placeId": "GhIJtJn5xPC3KUARn76v27FmU0A",
+      "name": "VJ53+PR Bengaluru",
+      "address": "VJ53+PR Bengaluru, Karnataka, India",
+      "location": {
+        "lat": 12.8592588,
+        "lng": 77.6046056
+      },
+      "countryCode": "IN",
+      "zipCode": "560076"
+    },
+    "addressType": "Home",
+    "contactPhone": "4588999996",
+    "createdAt": "2021-05-11T00:38:32.835Z",
+    "updatedAt": "2021-05-11T00:38:32.835Z",
+    "__v": 0,
+    "distance": 4082.72106742735
+  },
+  "pickupDateTime": null,
+  "deliveryPartnerDetails": {
+    "deliveryPartnerId": "5fadb9ef23e3fe0023d0df6a",
+    "deliveryPartnerName": "Brings",
+    "charge": {
+      "_id": "5fadb9ef23e3fe0023d0df71",
+      "minKm": 0,
+      "maxKm": 6,
+      "chargingType": "PER_DELIVERY",
+      "amount": 40,
+      "deliveryPrice": 40
+    }
+  },
+  "promocode": {
+    "id": "6050ef404328270be42679dd",
+    "promocodeType": "Delivery",
+    "promocodeCode": "SHIP25",
+    "promocodeValue": "25"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "250.00",
+  "productPriceForAllOrderQuantityAfterTax": "320.00",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-9AUF342J6265",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-9AUF342J6265.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-9AUF342J6265.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-11T01:50:04.812Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T01:50:04.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b183fec21938336682c52"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a18a",
+      "orderQuantity": 1,
+      "name": "sample5",
+      "description": "test procust5",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample05",
+      "price": 260,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70,
+      "priceFor1OrderQuantityBeforeTax": 250,
+      "priceFor1OrderQuantityAfterTax": 320,
+      "quantity": 29,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    },
+    {
+      "id": "6050ea4ca0aca019f880a18b",
+      "orderQuantity": 1,
+      "name": "sample6",
+      "description": "test procust6",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample06",
+      "price": 261,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70.28,
+      "priceFor1OrderQuantityBeforeTax": 251,
+      "priceFor1OrderQuantityAfterTax": 321.28,
+      "quantity": 30,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "status": "order_canceled",
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "updatedAt": {
+    "$date": "2021-05-12T01:51:53.383Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-11T16:50:37.690Z"
+  },
+  "__v": 0,
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 2,
+    "promocode": "",
+    "totalPriceBeforePromocode": 501,
+    "totalPriceAfterPromocode": 501,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 140.28,
+    "totalTaxBeforePromocode": 140.28,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 641.28
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "501.00",
+  "productPriceForAllOrderQuantityAfterTax": "641.28",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-GB0AY7A0M47V",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-GB0AY7A0M47V.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-GB0AY7A0M47V.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  }
+},{
+  "_id": {
+    "$oid": "609b18c212cda084d3503609"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a18a",
+      "orderQuantity": 1,
+      "name": "sample5",
+      "description": "test procust5",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample05",
+      "price": 260,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70,
+      "priceFor1OrderQuantityBeforeTax": 250,
+      "priceFor1OrderQuantityAfterTax": 320,
+      "quantity": 29,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    },
+    {
+      "id": "6050ea4ca0aca019f880a18b",
+      "orderQuantity": 1,
+      "name": "sample6",
+      "description": "test procust6",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample06",
+      "price": 261,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70.28,
+      "priceFor1OrderQuantityBeforeTax": 251,
+      "priceFor1OrderQuantityAfterTax": 321.28,
+      "quantity": 30,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "status": "order_placed",
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "updatedAt": {
+    "$date": "2021-05-11T16:50:37.690Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-11T16:50:37.690Z"
+  },
+  "__v": 0,
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 2,
+    "promocode": "",
+    "totalPriceBeforePromocode": 501,
+    "totalPriceAfterPromocode": 501,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 140.28,
+    "totalTaxBeforePromocode": 140.28,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 641.28
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "501.00",
+  "productPriceForAllOrderQuantityAfterTax": "641.28",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-B4E60C8OH53Q",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-B4E60C8OH53Q.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-B4E60C8OH53Q.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  }
+},{
+  "_id": {
+    "$oid": "609b1a26c0d9bc88e9c92caa"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a18a",
+      "orderQuantity": 1,
+      "name": "sample5",
+      "description": "test procust5",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample05",
+      "price": 260,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70,
+      "priceFor1OrderQuantityBeforeTax": 250,
+      "priceFor1OrderQuantityAfterTax": 320,
+      "quantity": 29,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    },
+    {
+      "id": "6050ea4ca0aca019f880a18b",
+      "orderQuantity": 1,
+      "name": "sample6",
+      "description": "test procust6",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample06",
+      "price": 261,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70.28,
+      "priceFor1OrderQuantityBeforeTax": 251,
+      "priceFor1OrderQuantityAfterTax": 321.28,
+      "quantity": 30,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "status": "order_placed",
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "updatedAt": {
+    "$date": "2021-05-11T16:50:37.690Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-11T16:50:37.690Z"
+  },
+  "__v": 0,
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 2,
+    "promocode": "",
+    "totalPriceBeforePromocode": 501,
+    "totalPriceAfterPromocode": 501,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 140.28,
+    "totalTaxBeforePromocode": 140.28,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 641.28
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "501.00",
+  "productPriceForAllOrderQuantityAfterTax": "641.28",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-1576m2425461",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-1576m2425461.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-1576m2425461.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  }
+},{
+  "_id": {
+    "$oid": "609b1af2c36c528b5235f02c"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a188",
+      "orderQuantity": 1,
+      "name": "sample3",
+      "description": "test procust3",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample03",
+      "price": 258,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.44,
+      "priceFor1OrderQuantityBeforeTax": 248,
+      "priceFor1OrderQuantityAfterTax": 317.44,
+      "quantity": 27,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_placed",
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 248,
+    "totalPriceAfterPromocode": 248,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 69.44,
+    "totalTaxBeforePromocode": 69.44,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 317.44
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "248.00",
+  "productPriceForAllOrderQuantityAfterTax": "317.44",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-Tg7O8gPxJWSy",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-Tg7O8gPxJWSy.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-Tg7O8gPxJWSy.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-12T00:01:54.193Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T00:01:54.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b1d4e0e6cb08d80288ba0"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a188",
+      "orderQuantity": 1,
+      "name": "sample3",
+      "description": "test procust3",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample03",
+      "price": 258,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.44,
+      "priceFor1OrderQuantityBeforeTax": 248,
+      "priceFor1OrderQuantityAfterTax": 317.44,
+      "quantity": 27,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_placed",
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 248,
+    "totalPriceAfterPromocode": 248,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 69.44,
+    "totalTaxBeforePromocode": 69.44,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 317.44
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "248.00",
+  "productPriceForAllOrderQuantityAfterTax": "317.44",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-LNaGGiZQPXGB",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-LNaGGiZQPXGB.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-LNaGGiZQPXGB.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-12T00:11:58.254Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T00:11:58.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b232d856b67973e98b159"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a188",
+      "orderQuantity": 1,
+      "name": "sample3",
+      "description": "test procust3",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample03",
+      "price": 258,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.44,
+      "priceFor1OrderQuantityBeforeTax": 248,
+      "priceFor1OrderQuantityAfterTax": 317.44,
+      "quantity": 27,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "status": "order_placed",
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "updatedAt": {
+    "$date": "2021-05-12T00:16:08.021Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-12T00:16:08.021Z"
+  },
+  "__v": 0,
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 248,
+    "totalPriceAfterPromocode": 248,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 69.44,
+    "totalTaxBeforePromocode": 69.44,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 317.44
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "248.00",
+  "productPriceForAllOrderQuantityAfterTax": "317.44",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-dGM7nVjneUbS",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-dGM7nVjneUbS.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-dGM7nVjneUbS.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  }
+},{
+  "_id": {
+    "$oid": "609b28e2f9e8f0a542afbbfd"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a189",
+      "orderQuantity": 1,
+      "name": "sample4",
+      "description": "test procust4",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample04",
+      "price": 259,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.72,
+      "priceFor1OrderQuantityBeforeTax": 249,
+      "priceFor1OrderQuantityAfterTax": 318.72,
+      "quantity": 28,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_canceled",
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 249,
+    "totalPriceAfterPromocode": 249,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 69.72,
+    "totalTaxBeforePromocode": 69.72,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 318.72
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "249.00",
+  "productPriceForAllOrderQuantityAfterTax": "318.72",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-6636P302O130",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-6636P302O130.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-6636P302O130.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-12T01:01:22.359Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T01:50:36.697Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b292184268da59c342efd"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a18b",
+      "orderQuantity": 1,
+      "name": "sample6",
+      "description": "test procust6",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample06",
+      "price": 261,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 70.28,
+      "priceFor1OrderQuantityBeforeTax": 251,
+      "priceFor1OrderQuantityAfterTax": 321.28,
+      "quantity": 30,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_canceled",
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 251,
+    "totalPriceAfterPromocode": 251,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 70.28,
+    "totalTaxBeforePromocode": 70.28,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 321.28
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-29T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "251.00",
+  "productPriceForAllOrderQuantityAfterTax": "321.28",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-10w6g870h286",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-10w6g870h286.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-10w6g870h286.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-12T01:02:25.281Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T01:44:46.042Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b29919d2505a63924b808"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a189",
+      "orderQuantity": 1,
+      "name": "sample4",
+      "description": "test procust4",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample04",
+      "price": 259,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.72,
+      "priceFor1OrderQuantityBeforeTax": 249,
+      "priceFor1OrderQuantityAfterTax": 318.72,
+      "quantity": 28,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_canceled",
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 249,
+    "totalPriceAfterPromocode": 249,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 69.72,
+    "totalTaxBeforePromocode": 69.72,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 318.72
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-22T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "249.00",
+  "productPriceForAllOrderQuantityAfterTax": "318.72",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-cxnv8vD4BO18",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-cxnv8vD4BO18.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-cxnv8vD4BO18.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-12T01:04:17.372Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T01:42:40.443Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609b2a51731216a76a627119"
+  },
+  "products": [
+    {
+      "id": "6050ea4ca0aca019f880a189",
+      "orderQuantity": 1,
+      "name": "sample4",
+      "description": "test procust4",
+      "images": [
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png",
+        "https://tm-sahaya-coupons.s3.amazonaws.com/images/1591306122024-product1.png"
+      ],
+      "category": "plpl",
+      "brand": "plpl",
+      "productIdentificationCode": "sample04",
+      "price": 259,
+      "discount": 10,
+      "promocodeDiscount": 0,
+      "taxPrice": 69.72,
+      "priceFor1OrderQuantityBeforeTax": 249,
+      "priceFor1OrderQuantityAfterTax": 318.72,
+      "quantity": 28,
+      "quantityType": "grams",
+      "taxPercentage": 28
+    }
+  ],
+  "services": [],
+  "instructions": "",
+  "noContactDelivery": true,
+  "rewardPointsEarnedPerOrder": 0,
+  "storeId": "604f9a1432e47b068427c048",
+  "userId": "607139caffe4b312744a646c",
+  "status": "order_canceled",
+  "orderType": "Pickup",
+  "paymentDetail": {
+    "totalQuantity": 1,
+    "promocode": "",
+    "totalPriceBeforePromocode": 249,
+    "totalPriceAfterPromocode": 249,
+    "deliveryCargeBeforePromocode": 0,
+    "deliveryCargeAfterPromocode": 0,
+    "deliveryDiscount": 0,
+    "distance": 0,
+    "tip": 0,
+    "totalTax": 69.72,
+    "totalTaxBeforePromocode": 69.72,
+    "redeemRewardValue": 0,
+    "redeemRewardPoint": 0,
+    "toPay": 318.72
+  },
+  "pickupDateTime": {
+    "$date": "2021-05-22T13:40:00Z"
+  },
+  "productPriceForAllOrderQuantityBeforeTax": "249.00",
+  "productPriceForAllOrderQuantityAfterTax": "318.72",
+  "servicePriceForAllOrderQuantityBeforeTax": "0.00",
+  "servicePriceForAllOrderQuantityAfterTax": "0.00",
+  "category": "Cart",
+  "orderId": "TM-765300759067",
+  "qrcodeImgUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/Oder-QR-Codes/TM-765300759067.png",
+  "invoicePdfUrl": "https://tm-orders-bucket.s3.ap-south-1.amazonaws.com/OrderInvoices/TM-765300759067.pdf",
+  "rewardPointData": {
+    "id": {
+      "$oid": "5f606c6847aa3d002321de30"
+    },
+    "buy": {
+      "rewardPoints": 100,
+      "value": 25
+    },
+    "redeem": {
+      "rewardPoints": 10,
+      "value": 3
+    },
+    "minOrderAmount": 100,
+    "maxRewardsPerOrder": 100
+  },
+  "createdAt": {
+    "$date": "2021-05-12T01:07:29.025Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T01:47:52.957Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,13 @@
+{
+
+  "sign_in_error" : "Email and Password dose not exist",
+  "sign_in_wrong_password" : "Wrong Password",
+  "account_already_exist" : "This account already exist",
+  "query_error" : "Query Error",
+  "auth_error" : "Insufficient data!",
+  "success" : "Action success",
+  "remove_success" : "Removed successfully",
+  "wrong_password" : "Wrong Password",
+  "insufficient_data" : "In Sufficient Data",
+  "order_duplicated" : "Order Duplicated"
+}
